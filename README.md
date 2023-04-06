@@ -1,2 +1,2 @@
 # MySalon
-Basic Website using HTML &amp; CSS
+Basic Website using HTML & CSS
